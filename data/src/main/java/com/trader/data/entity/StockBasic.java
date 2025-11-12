@@ -1,4 +1,4 @@
-package com.trader.data.dto;
+package com.trader.data.entity;
 
 /**
  * 股票基础信息
