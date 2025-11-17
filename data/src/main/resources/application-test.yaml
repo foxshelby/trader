@@ -1,0 +1,10 @@
+# 端口设置
+server:
+  port: 7077
+# influxdb连接信息设置
+influxdb:
+  url: http://localhost:8086
+  token: your-token-here
+  org: your-organization
+  bucket: your-bucket
+  log-level: BODY

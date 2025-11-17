@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: trader
+  profiles:
+    active: "@profile.name@"
