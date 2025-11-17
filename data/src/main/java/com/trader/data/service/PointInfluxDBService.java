@@ -11,7 +11,7 @@ import org.springframework.stereotype.Service;
 import java.time.Instant;
 import java.util.Map;
 
-@Service
+//@Service
 public class PointInfluxDBService {
 
     private final WriteApiBlocking writeApi;

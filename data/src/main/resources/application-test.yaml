@@ -3,8 +3,8 @@ server:
   port: 7077
 # influxdb连接信息设置
 influxdb:
-  url: http://localhost:8086
-  token: your-token-here
+  url: http://172.21.189.102:8181
+  token: apiv3_6CP0ntEdNon8cW622Cx99OC5gT1eRazYSjSs3y4o3HqMSqgauJFUQOR0nuWgk6PdiliU9C_KjvgQ12tAiXge9g
   org: your-organization
   bucket: your-bucket
   log-level: BODY
